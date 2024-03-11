@@ -1,0 +1,25 @@
+img {
+  width: 150px;
+  height: 150px;
+  
+}
+img:hover{
+  width: 400px;
+  height: 400px;
+}
+p{
+  font-family: fantasy;
+}
+body{
+  background-color: #9fdef9;
+  
+}
+#rose{
+  border: 5px double #f5a3a3;
+}
+#hibiscus{
+  border: 5px solid #dbd3ae;
+}
+#raff{
+  border: 5px dotted #f5d47a;
+}
